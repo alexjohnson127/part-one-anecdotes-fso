@@ -31,6 +31,7 @@ const App = () => {
     setPoints(newPoints)
     setPopular(tempPop)
   }
+  
 
   return (
     <div>
